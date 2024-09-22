@@ -22,7 +22,8 @@ When defender flipped the hip, it is hard:
 ### the punch drag
 - Go very fast to 1 direction, and with 2 feet to stop with a dribble pump
 - Does not hurt knees
-  
+![attackTop](./pumpDrag.jpg)
+
 ### float/hang dribble
 When you are hanging the ball, you have 3 options and the defender is then not decisive
 1. Shoot jump shot
