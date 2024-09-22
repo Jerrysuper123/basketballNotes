@@ -13,6 +13,7 @@ When defender flipped the hip, it is hard:
 - To stop in time to defend you; need to flip the hips back to defend you
 - To jump in opposite momentum
 - Defender already lost the right stance to exert power to come towards you
-
+![flip](./flipHip.jpg)
+![bump](./bumpSeparation.jpg)
 ### Attack the top foot, defenders have to flip the hip
 ![attackTop](./attackTopfoot.jpg)
