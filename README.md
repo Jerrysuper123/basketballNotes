@@ -17,3 +17,38 @@ When defender flipped the hip, it is hard:
 ![bump](./bumpSeparation.jpg)
 ### Attack the top foot, defenders have to flip the hip
 ![attackTop](./attackTopfoot.jpg)
+
+## 5 separation moves for shot
+### the punch drag
+- Go very fast to 1 direction, and with 2 feet to stop with a dribble pump
+- Does not hurt knees
+  
+### float/hang dribble
+When you are hanging the ball, you have 3 options and the defender is then not decisive
+1. Shoot jump shot
+2. blow by defender
+3. Cross over defender
+
+When you hang the ball, defender is most likely to back up a bit.
+
+However, if you are a good shooter, he will likely still stay close to you.
+
+### step back
+Have been using this for a long time.
+There are 2 types:
+1. Going downhill step back
+2. Small step step back
+
+![speedStop](./stepback.jpg)
+
+### pickup pump fake
+Immediately when you pick up the ball, you do a pump fake; defender is 99% likely to jump to contest the ball. Then you could exe other moves.
+![speedStop](./pickupPumpshot.jpg)
+
+### speed stop
+Going down hill and suddenly stop with:
+1. between the leg
+2. behind the back
+3. Cross over to stop
+
+![speedStop](./speedStop.jpg)
