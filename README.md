@@ -22,6 +22,7 @@ When defender flipped the hip, it is hard:
 ### the punch drag
 - Go very fast to 1 direction, and with 2 feet to stop with a dribble pump
 - Does not hurt knees
+  
 ![attackTop](./pumpDrag.jpg)
 
 ### float/hang dribble
@@ -44,6 +45,7 @@ There are 2 types:
 
 ### pickup pump fake
 Immediately when you pick up the ball, you do a pump fake; defender is 99% likely to jump to contest the ball. Then you could exe other moves.
+
 ![speedStop](./pickupPumpshot.jpg)
 
 ### speed stop
