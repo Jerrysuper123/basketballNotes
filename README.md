@@ -1,6 +1,6 @@
 # basketballNotes
 ## How to drive past defender and create separation for shooting
-Objective: to dribble is to cause defenders to flip hip
+Objective: to dribble is to cause defenders to flip hip; the power to defend comes from the right stance, when defenders lost this; he lost this power
 
 Once defender flipped their hip in the wrong way, it is hard for them to jump or contest your shot.
 
