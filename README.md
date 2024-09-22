@@ -15,5 +15,4 @@ When defender flipped the hip, it is hard:
 - Defender already lost the right stance to exert power to come towards you
 
 ### Attack the top foot, defenders have to flip the hip
-
-
+![attackTop](./attackTopfoot.jpg)
