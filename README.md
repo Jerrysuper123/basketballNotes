@@ -1,10 +1,12 @@
 # basketballNotes
 
-## 10 best attacking spots
+## big space - 10 best attacking spots
 3 on the left side of the court, 2 on the right, vice versa
 
 ![Screenshot 2025-05-02 at 10 25 33 PM](https://github.com/user-attachments/assets/81ecef44-aaac-43ee-8f65-37eab3f41081)
 
+## small space - one arm length then shoot
+less than 1 arm, we are in opponent space, then we can cross over the opponent.
 
 
 ## How to drive past defender and create separation for shooting
