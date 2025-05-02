@@ -1,7 +1,8 @@
 # basketballNotes
 
 ## 10 best attacking spots
-![Uploading Screenshot 2025-05-02 at 10.25.33 PM.png…]()
+![Screenshot 2025-05-02 at 10 25 33 PM](https://github.com/user-attachments/assets/81ecef44-aaac-43ee-8f65-37eab3f41081)
+
 
 
 ## How to drive past defender and create separation for shooting
