@@ -8,6 +8,9 @@
 ## small space - one arm length then shoot
 less than 1 arm, we are in opponent space, then we can cross over the opponent.
 
+6 attack points.
+![Screenshot 2025-05-02 at 10 35 57 PM](https://github.com/user-attachments/assets/c73dc654-4d9c-48ed-8728-26fca4c31462)
+
 Use 1 jump step to get further from opponent for shooting.
 
 ## How to drive past defender and create separation for shooting
