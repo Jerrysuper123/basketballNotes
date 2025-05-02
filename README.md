@@ -1,4 +1,9 @@
 # basketballNotes
+
+## 10 best attacking spots
+![Uploading Screenshot 2025-05-02 at 10.25.33 PM.png…]()
+
+
 ## How to drive past defender and create separation for shooting
 Objective: to dribble is to cause defenders to flip hip; the power to defend comes from the right stance, when defenders lost this; he lost this power
 
