@@ -1,6 +1,8 @@
 # basketballNotes
 
 ## 10 best attacking spots
+3 on the left side of the court, 2 on the right, vice versa
+
 ![Screenshot 2025-05-02 at 10 25 33 PM](https://github.com/user-attachments/assets/81ecef44-aaac-43ee-8f65-37eab3f41081)
 
 
